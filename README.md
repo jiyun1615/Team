@@ -1,5 +1,3 @@
-Ã¢ÀÇÀû IT°øÇÐ¼³°è
+ì°½ì˜ì  ITê³µí•™ì„¤ê³„
 
-ÆÀ¿ø : ±èÁØÇõ, ÀüÂùÈ£, ½ÅÁöÀ±, ºÎ¹ÝÆ®·è
-
-This is just testing file.
+íŒ€ì› : ê¹€ì¤€í˜, ì „ì°¬í˜¸, ì‹ ì§€ìœ¤, ë¶€ë°˜íŠ¸ë£©
