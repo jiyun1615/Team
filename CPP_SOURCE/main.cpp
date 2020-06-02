@@ -17,7 +17,13 @@ int main()
     ofs << inputStr;
     ofs.close();
     
-    ofs.is_open();
+    if(ofs.is_open())
+    {
+        cout << "아직 열려있습니다. 닫고 다시 하세요.\n" << endl;
+    } else
+    {
+        cout << "닫혔습니다. 수고하셨어요.\n" << endl;
+    }
     
     return 0;
 }
