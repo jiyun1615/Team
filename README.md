@@ -26,4 +26,7 @@
 
 ### 개발방향
 깃 회의록 프로그램
-visual studio이용
+
+visual studio 사용 (.exe 응용프로그램 개발)
+
+<hr>

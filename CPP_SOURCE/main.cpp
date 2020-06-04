@@ -2,12 +2,15 @@
 #include <cstdlib>
 #include <fstream>
 #include <string>
+
+#define MAX_STR 1000
+
 using namespace std;
 
 
 int main()
 {
-    string inputStr;
+    char inputStr[MAX_STR];
     
     cout << "Git Auto-Writing Program\n" << endl;
     cout << "문구를 입력하세요\n" << endl;
