@@ -41,3 +41,7 @@
 - github에 연동시키는 기능
 
 <hr>
+
+### 필요 문법
+HTML5, ES6Script 문법들 중 중요하고 필요하다고 판단한 것들만 정리함.
+- <a href="https://github.com/IoTSecure/HTML5_ES6Script">추가나 수정은 언제나 환영입니다. 여기를 클릭하세요!</a>
