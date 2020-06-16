@@ -15,7 +15,7 @@
 <br>|부반트룩|201824332|   |
 
 <div>
-<img src = "https://user-images.githubusercontent.com/51588209/84772558-110c2880-b016-11ea-886b-49b65f17e897.png">
+<img width="2200" src = "https://user-images.githubusercontent.com/51588209/84772558-110c2880-b016-11ea-886b-49b65f17e897.png">
 </div>
 
 
