@@ -8,7 +8,6 @@
 <hr>
 
 ### 조원 소개
-<ul>
 <div>
 <img width="660" src = "https://user-images.githubusercontent.com/51588209/84772558-110c2880-b016-11ea-886b-49b65f17e897.png">
 </div>
