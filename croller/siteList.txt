@@ -1,0 +1,3 @@
+site : naver , url : http://www.naver.com
+site : daum , url : http://www.daum.net
+site : google , url : http://www.google.com
