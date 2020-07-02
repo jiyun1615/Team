@@ -1,19 +1,19 @@
 창의적 IT공학설계 - 처음만난조
 ===================
 
-## 주제 : 깃 회의록 프로그램
+## 주제 : 웹메모장
 ### 프로그램 설명 : 
-<br>작성한 회의록을 리드미 파일로 변환 후 깃허브에 업로드 하는 프로그램.
+<br> 웹메모장 구현 및 다운로드
 
 <hr>
 
 ### 조원 소개
 <div>
-<img width="660" src = "https://user-images.githubusercontent.com/51588209/84772558-110c2880-b016-11ea-886b-49b65f17e897.png">
+<img width="660" src = "https://user-images.githubusercontent.com/51588209/86402507-e47b3080-bce6-11ea-8a65-5763bf7fe9e8.png">
 </div>
 
 
-</ul>
+<ul>
 
 <hr>
 
@@ -28,18 +28,18 @@
 <hr>
 
 ### 개발방향
-깃 회의록 프로그램
+웹 메모장 구현 및 다운로드
 
-- visual studio 사용 (.exe 응용프로그램 개발).
-- javascript, html5, React 라이브러리를 사용하여 웹으로 구현.
+- visual studio code, node.js 사용
+- javascript, html5 라이브러리를 사용하여 웹으로 구현.
 
 <hr>
 
 ### 개발목표
 오픈소스 변형
 
-- 회의록으로 정리하는 기능
-- github에 연동시키는 기능
+- html과 editorjs를 이용한 웹메모장 구현
+- 웹메모장 다운로드 - txt파일로 변환
 
 <hr>
 
