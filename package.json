@@ -1,0 +1,34 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "창의적 IT공학설계 - 처음만난조 ===================",
+  "main": "index.js",
+  "dependencies": {
+    "@editorjs/editorjs": "^2.18.0",
+    "fresh": "^0.5.2",
+    "save-dev": "0.0.1-security"
+  },
+  "devDependencies": {
+    "@editorjs/embed": "^2.3.1",
+    "@editorjs/header": "^2.5.0",
+    "@editorjs/list": "^1.5.0",
+    "parcel": "^1.12.4"
+  },
+  "optionalDependencies": {
+    "fsevents": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IoTSecure/Team.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IoTSecure/Team/issues"
+  },
+  "homepage": "https://github.com/IoTSecure/Team#readme"
+}
