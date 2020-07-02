@@ -28,7 +28,7 @@
 <hr>
 
 ### 개발방향
-깃 회의록 프로그램
+웹 메모장 구현 및 다운로드
 
 - visual studio code, node.js 사용
 - javascript, html5 라이브러리를 사용하여 웹으로 구현.
