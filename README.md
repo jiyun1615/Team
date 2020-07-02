@@ -9,7 +9,7 @@
 
 ### 조원 소개
 <div>
-<img width="660" src = "https://user-images.githubusercontent.com/51588209/84772558-110c2880-b016-11ea-886b-49b65f17e897.png">
+<img width="660" src = "https://user-images.githubusercontent.com/51588209/86402507-e47b3080-bce6-11ea-8a65-5763bf7fe9e8.png">
 </div>
 
 
